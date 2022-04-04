@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@sap/cds": "5.6.3",
+    "express": "^4"
+  },
+  "scripts": {
+    "start": "app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EkaterinaArena/devopsapp.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
